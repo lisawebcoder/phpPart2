@@ -78,12 +78,11 @@ $error_message = "Incorrect Email or Password!!!";
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="http://www.onlyxcodes.com/">onlyxcodes</a>
+          </button>          
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="">Back to Tutorial</a></li>
+             <!--li class="active"><a href="http://localhost/2134668/index.php">Back to Main</a></li-->
           </ul>
         </div><!--/.nav-collapse -->
       </div>
